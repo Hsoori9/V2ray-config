@@ -1,2 +1,1 @@
-vless://93a62672-b506-407f-927d-d5226135344f@85.133.197.88:80?security=tls&sni=t1.atsariii.top&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇮🇷 IR-85.133.197.88:80
-vless://4b80cba5-db10-461b-ac3c-4cd3e3ab29b6@85.9.99.198:28534?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.99.198:28534
+vless://da8d9428-7e89-4699-adaf-3d7bd20fefd1@109.94.165.106:10000?security=none&type=ws#🔒 VL-WS-NONE 🇮🇷 IR-109.94.165.106:10000
